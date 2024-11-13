@@ -19,8 +19,10 @@ The Club Pub is a centralized, interactive platform designed to help students at
 
 ## Team Contract
 The team has agreed upon these terms. Voilation of set terms can and will result in disciplinary action and/or dismissal from project. The contract has been electronically signed by each team member and is binding.
+
 ### Live Link
 * [404 Contract](https://docs.google.com/document/d/1TxXB5bdOpOYseks1Diq53jgWq90syPOHFUVGKT9IJ6M/edit?usp=sharing)
+
 ### PDF Link
 * [contract.pdf]()
 
