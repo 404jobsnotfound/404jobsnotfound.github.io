@@ -3,6 +3,9 @@
 ## Table of Contents
 * [Overview](#overview)
     * [Goals](#goals)
+* [Team Contract](#team-contract)
+    * [Live Link](#live-link)
+    * [PDF Link](#pdf-link)
 * [Usage Guide](#usage-guide)
 * [Contact Us](#contact-us)
 
@@ -24,7 +27,7 @@ The team has agreed upon these terms. Voilation of set terms can and will result
 * [404 Contract](https://docs.google.com/document/d/1TxXB5bdOpOYseks1Diq53jgWq90syPOHFUVGKT9IJ6M/edit?usp=sharing)
 
 ### PDF Link
-* [contract.pdf]()
+* [contract.pdf](/docs/Team Bonding.pdf)
 
 ## Usage Guide
 
