@@ -11,10 +11,8 @@ The Club Pub is a centralized, interactive platform designed to help students at
 
 ## Goals
 
-*   
-* 
-* 
-<<<<<<< HEAD
+* To bring students together across campus
+* Offer an all-in-one guide for
 * 
 
 
@@ -23,5 +21,3 @@ The Club Pub is a centralized, interactive platform designed to help students at
 ## Contact Us
 
 BrainBows is designed, implemented, and maintained by <a href="https://yilamulafeier.github.io">Yilamu Lafeier</a>, <a href="">Andre Miller</a>, <a href="">Andrew He</a>, <a href="">Patrick Ariolaa</a>, <a href="">Hovhannes Muradyan</a>
-=======
->>>>>>> AndreLMiller-patch-1
