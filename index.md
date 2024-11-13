@@ -7,12 +7,14 @@
 
 ## Overview
 
-It's hard to find clubs on campus. Wouldn't be easier if they were all in one place? [PROJECT NAME] solves this with a collection of clubs across [DEPARTMENTS].
+The Club Pub is a centralized, interactive platform designed to help students at UH Manoa discover, explore, and engage with a wide variety of student clubs and organizations—both official and unofficial. With over 200 Registered Independent Organizations and many more student-led groups, the challenge has been to create an easy-to-navigate, comprehensive directory that allows students to learn about clubs, what they do, and how to get involved. The Club Pub aims to solve this problem by providing a user-friendly and dynamic hub for all student organizations at UH Manoa.
 
 ## Goals
 
+*   
 * 
 * 
+<<<<<<< HEAD
 * 
 
 
@@ -21,3 +23,5 @@ It's hard to find clubs on campus. Wouldn't be easier if they were all in one pl
 ## Contact Us
 
 BrainBows is designed, implemented, and maintained by <a href="https://yilamulafeier.github.io">Yilamu Lafeier</a>, <a href="">Andre Miller</a>, <a href="">Andrew He</a>, <a href="">Patrick Ariolaa</a>, <a href="">Hovhannes Muradyan</a>
+=======
+>>>>>>> AndreLMiller-patch-1
