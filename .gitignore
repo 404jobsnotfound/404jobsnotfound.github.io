@@ -1,0 +1,7 @@
+# .gitignore standard file for ICS Software Engineering Meteor Development.
+
+# Ignore VSCode settings files.
+.vscode/
+
+# If on a Mac, ignore DS_Store.
+.DS_Store
