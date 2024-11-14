@@ -19,7 +19,6 @@ The Club Pub is a centralized, interactive platform designed to help students at
 * Offer an all-in-one application to browse and join clubs
 * Partner with campus clubs to provide an easy application option
 * Bring more attention to smaller clubs
-* ...and more! (Pls feel free to add more)
 
 ## Team Contract
 The team has agreed upon these terms. Voilation of set terms can and will result in disciplinary action and/or dismissal from project. The contract has been electronically signed by each team member and is binding.
@@ -34,4 +33,4 @@ The team has agreed upon these terms. Voilation of set terms can and will result
 
 ## Contact Us
 
-The Club Pub is designed, implemented, and maintained by 404jobsnotfound, a group comprised of <a href="https://yilamulafeier.github.io">Yilamu Lafeier</a>, <a href="">Andre Miller</a>, <a href="https://andrewhe6.github.io">Andrew He</a>, <a href="">Patrick Ariolaa</a>, and <a href="">Hovhannes Muradyan</a>
+The Club Pub is designed, implemented, and maintained by 404jobsnotfound, a group comprised of <a href="https://yilamulafeier.github.io">Yilamu Lafeier</a>, <a href="https://andrelmiller.github.io/">Andre Miller</a>, <a href="https://andrewhe6.github.io">Andrew He</a>, <a href="">Patrick Ariolaa</a>, and <a href="">Hovhannes Muradyan</a>
