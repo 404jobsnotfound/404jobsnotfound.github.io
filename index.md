@@ -6,6 +6,9 @@
 * [Team Contract](#team-contract)
     * [Live Link](#live-link)
     * [PDF Link](#pdf-link)
+* [Deployment](#deployment)
+* [Images](#images)
+* [Milestones](#milestones)
 * [Usage Guide](#usage-guide)
 * [Contact Us](#contact-us)
 
@@ -29,6 +32,15 @@ The team has agreed upon these terms. Voilation of set terms can and will result
 
 ### PDF Link
 * [contract.pdf](/docs/Team Bonding.pdf)
+
+## Deployment
+Click [here](https://the-club-pub.vercel.app/) to access our application deployed using Vercel.
+
+## Images
+
+## Milestones
+* [Issues for Milestone 1](https://github.com/orgs/404jobsnotfound/projects/1)
+* [Issues for Milestone 2](https://github.com/orgs/404jobsnotfound/projects/2)
 
 ## Usage Guide
 
