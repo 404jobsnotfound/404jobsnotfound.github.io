@@ -36,6 +36,7 @@ The team has agreed upon these terms. Violation of set terms can and will result
 Click [here](https://the-club-pub.vercel.app/) to access our application deployed using Vercel.
 
 ## Images
+![Landing Page](docs/landingPage.png)
 
 ## Milestones
 * [Issues for Milestone 1](https://github.com/orgs/404jobsnotfound/projects/1)
