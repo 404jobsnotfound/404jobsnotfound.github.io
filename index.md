@@ -22,10 +22,9 @@ The Club Pub is a centralized, interactive platform designed to help students at
 * Offer an all-in-one application to browse and join clubs
 * Partner with campus clubs to provide an easy application option
 * Bring more attention to smaller clubs
-* ...and more! (Pls feel free to add more)
 
 ## Team Contract
-The team has agreed upon these terms. Voilation of set terms can and will result in disciplinary action and/or dismissal from project. The contract has been electronically signed by each team member and is binding.
+The team has agreed upon these terms. Violation of set terms can and will result in disciplinary action and/or dismissal from the project. The contract has been electronically signed by each team member and is binding.
 
 ### Live Link
 * [404 Contract](https://docs.google.com/document/d/1TxXB5bdOpOYseks1Diq53jgWq90syPOHFUVGKT9IJ6M/edit?usp=sharing)
@@ -43,7 +42,8 @@ Click [here](https://the-club-pub.vercel.app/) to access our application deploye
 * [Issues for Milestone 2](https://github.com/orgs/404jobsnotfound/projects/2)
 
 ## Usage Guide
+*Coming soon*
 
 ## Contact Us
 
-The Club Pub is designed, implemented, and maintained by 404jobsnotfound, a group comprised of <a href="https://yilamulafeier.github.io">Yilamu Lafeier</a>, <a href="">Andre Miller</a>, <a href="https://andrewhe6.github.io">Andrew He</a>, <a href="">Patrick Ariolaa</a>, and <a href="">Hovhannes Muradyan</a>
+The Club Pub is designed, implemented, and maintained by 404jobsnotfound, a group comprised of <a href="https://yilamulafeier.github.io">Yilamu Lafeier</a>, <a href="https://andrelmiller.github.io/">Andre Miller</a>, <a href="https://andrewhe6.github.io">Andrew He</a>, <a href="https://patrickariola.github.io">Patrick Ariola</a>, and <a href="https://hovomuradyan.github.io/portfolio/">Hovhannes Muradyan</a>
