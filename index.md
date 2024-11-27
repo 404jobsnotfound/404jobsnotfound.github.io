@@ -41,6 +41,8 @@ Click [here](https://the-club-pub.vercel.app/) to access our application deploye
 ## Milestones
 * [Issues for Milestone 1](https://github.com/orgs/404jobsnotfound/projects/1)
 * [Issues for Milestone 2](https://github.com/orgs/404jobsnotfound/projects/2)
+* [Issues for Milestone 3](https://github.com/orgs/404jobsnotfound/projects/3)
+
 
 ## Usage Guide
 *Coming soon*
