@@ -9,7 +9,8 @@
 * [Deployment](#deployment)
 * [Images](#images)
 * [Milestones](#milestones)
-* [Usage Guide](#usage-guide)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Contact Us](#contact-us)
 
 ### Overview
@@ -43,9 +44,19 @@ Click [here](https://the-club-pub.vercel.app/) to access our application deploye
 * [Issues for Milestone 2](https://github.com/orgs/404jobsnotfound/projects/2)
 * [Issues for Milestone 3](https://github.com/orgs/404jobsnotfound/projects/5)
 
-
-## Usage Guide
+## User Guide
 *Coming soon*
+
+## Developer Guide
+Go to the [project respository](https://github.com/404jobsnotfound/the-club-pub) and clone the respository. 
+Open the terminal and use `npm install` to install all dependencies.
+Use `npm run dev` to view the site locally at http://localhost:3000
+
+To initialize the database for the site, first start a new Postgres database.
+Copy the `sample.env` file and create a new file `.env`.
+In the `.env` file, modify the `DATABASE_URL` variable such that `user` is the database username, `password` is the database password, and `mydb` is the name of your database.
+Run `npx prisma migrate dev` to create tables in the database.
+Run `npx prisma db seed` to populate the database with sample data.
 
 ## Contact Us
 
