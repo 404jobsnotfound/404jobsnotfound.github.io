@@ -12,6 +12,7 @@
 * [Milestones](#milestones)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
+* [Community Feedback](#comunity-feedback)
 * [Contact Us](#contact-us)
 
 ### Overview
@@ -60,6 +61,9 @@ Modifying Data
 3. In the `.env` file, modify the `DATABASE_URL` variable such that `user` is the database username, `password` is the database password, and `mydb` is the name of your database.
 4. Run `npx prisma migrate dev` to create tables in the database.
 5. Run `npx prisma db seed` to populate the database with sample data.
+
+## Comunity Feedback
+*Coming soon*
 
 ## Contact Us
 
