@@ -1,4 +1,4 @@
-![Logo](docs/clublogo.png "Club Pub Logo")
+<img src="docs/clublogo.png" width="250" height="250" alt="Club Pub Logo" title="Club Pub Logo">
 # 404: Jobs Not Found
 
 ## Table of Contents
