@@ -41,6 +41,7 @@ Click [here](https://the-club-pub.vercel.app/) to access our application deploye
 ## Images
 ![Landing Page](docs/landingPage.png)
 ![Welcome Screen](docs/welcome.png)
+![Browse Clubs](docs/browseClub.png)
 
 ## Milestones
 * [Issues for Milestone 1](https://github.com/orgs/404jobsnotfound/projects/1)
