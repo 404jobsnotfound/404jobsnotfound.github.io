@@ -40,6 +40,7 @@ Click [here](https://the-club-pub.vercel.app/) to access our application deploye
 
 ## Images
 ![Landing Page](docs/landingPage.png)
+![Welcome Screen](docs/welcome.png)
 
 ## Milestones
 * [Issues for Milestone 1](https://github.com/orgs/404jobsnotfound/projects/1)
@@ -47,7 +48,26 @@ Click [here](https://the-club-pub.vercel.app/) to access our application deploye
 * [Issues for Milestone 3](https://github.com/orgs/404jobsnotfound/projects/5)
 
 ## User Guide
-*Coming soon*
+1. Access the site by clicking the link in [Deployment](#deployment), which should take you to the deployed Vercel app
+2. Log in to your account, or sign up for an account if you don't have one
+3. Explore the Club Pub!
+
+#### For Users
+All users have access to the following permissions:
+- Browse all available clubs
+- Search clubs according to interest areas
+- View details about specific clubs
+
+#### For Club Admins
+As a club admin, you gain access to the following permissions:
+- Create a new club
+- Edit club details, including name, description, and setting other admins
+<img src="docs/addClub.png" width="250" height="300" alt="Add club option" title="Add Club Screen">
+
+#### For Site Admins
+As a site admin, you gain access to the following permissions:
+- Option to delete any club in edit menu
+<img src="docs/deleteClub.png" width="260" height="250" alt="Delete club option" title="Delete Club option when editing club details">
 
 ## Developer Guide
 Viewing the Site
