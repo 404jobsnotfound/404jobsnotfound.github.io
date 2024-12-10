@@ -52,22 +52,22 @@ Click [here](https://the-club-pub.vercel.app/) to access our application deploye
 2. Log in to your account, or sign up for an account if you don't have one
 3. Explore the Club Pub!
 
-#### For Users
+### For Users
 All users have access to the following permissions:
 - Browse all available clubs
 - Search clubs according to interest areas
 - View details about specific clubs
 
-#### For Club Admins
+### For Club Admins
 As a club admin, you gain access to the following permissions:
 - Create a new club
 - Edit club details, including name, description, and setting other admins
-<img src="docs/addClub.png" width="250" height="300" alt="Add club option" title="Add Club Screen">
+<br /><img src="docs/addClub.png" width="250" height="300" alt="Add club option" title="Add Club Screen" />
 
-#### For Site Admins
+### For Site Admins
 As a site admin, you gain access to the following permissions:
 - Option to delete any club in edit menu
-<img src="docs/deleteClub.png" width="260" height="250" alt="Delete club option" title="Delete Club option when editing club details">
+<br /><img src="docs/deleteClub.png" width="260" height="250" alt="Delete club option" title="Delete Club option when editing club details" />
 
 ## Developer Guide
 Viewing the Site
