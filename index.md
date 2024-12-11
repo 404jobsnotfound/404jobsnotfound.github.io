@@ -36,7 +36,7 @@ The team has agreed upon these terms. Violation of set terms can and will result
 * [contract.pdf](/docs/Team Bonding.pdf)
 
 ## Deployment
-Click [here](https://the-club-pub.vercel.app/) to access our application deployed using Vercel.
+Click [here](https://the-club-pub-git-test1-patricks-projects-491ced00.vercel.app/?_vercel_share=kx7zbHtZDkfMgfq28ZHsXK136z98NvUM) to access our application deployed using Vercel.
 
 ## Images
 ![Landing Page](docs/landingPage.png)
