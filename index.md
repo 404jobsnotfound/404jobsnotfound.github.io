@@ -84,7 +84,13 @@ Modifying Data
 5. Run `npx prisma db seed` to populate the database with sample data.
 
 ## Comunity Feedback
-*Coming soon*
+In order to ensure our site is user-friendly, we gathered thoughts feedback from members of our community. 
+
+Most of them liked the usability of the site, specifically the ease of use to regular site users. A few people noted that the button to delete a club was hard to find because you had to click on the Admin button in the header and then click the edit club button to see the option. 
+
+Some people also mentioned the long loading times between pages, thinking that somehow broke the site when they wanted to browse clubs but nothing on the page had loaded for a few seconds. 
+
+One member suggested for an option to add more images when adding a club to showcase club events, activities, and board members. 
 
 ## Contact Us
 
